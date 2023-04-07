@@ -1,1 +1,1 @@
-FROM xyouxiu6/chatgpt-web:latest
+FROM xyouxiu6/chatgpt-web:v1
